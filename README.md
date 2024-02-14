@@ -7,7 +7,8 @@ This is the PyTorch implementation for LAMAR model.
 
 
 > **Large Language Models Augmented Rating Prediction in Recommender System.**  
-Sichun Luo, Jiansheng Wang, Aojun Zhou, Li Ma, Linqi Song.
+Sichun Luo, Jiansheng Wang, Aojun Zhou, Li Ma, Linqi Song.  
+*ICASSP2024*
 
 
 ---
